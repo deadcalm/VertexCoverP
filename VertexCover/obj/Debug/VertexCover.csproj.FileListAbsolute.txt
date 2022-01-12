@@ -1,0 +1,15 @@
+C:\Users\yaher\source\repos\VertexCover\VertexCover\bin\Debug\VertexCover.exe.config
+C:\Users\yaher\source\repos\VertexCover\VertexCover\bin\Debug\VertexCover.exe
+C:\Users\yaher\source\repos\VertexCover\VertexCover\bin\Debug\VertexCover.pdb
+C:\Users\yaher\source\repos\VertexCover\VertexCover\obj\Debug\VertexCover.csproj.AssemblyReference.cache
+C:\Users\yaher\source\repos\VertexCover\VertexCover\obj\Debug\VertexCover.csproj.CoreCompileInputs.cache
+C:\Users\yaher\source\repos\VertexCover\VertexCover\obj\Debug\VertexCover.exe
+C:\Users\yaher\source\repos\VertexCover\VertexCover\obj\Debug\VertexCover.pdb
+C:\Users\yaher\Desktop\Учеба\Алгоритмы и анализ сложности\Практическая работа\VertexCover\VertexCover\bin\Debug\VertexCover.exe.config
+C:\Users\yaher\Desktop\Учеба\Алгоритмы и анализ сложности\Практическая работа\VertexCover\VertexCover\bin\Debug\VertexCover.exe
+C:\Users\yaher\Desktop\Учеба\Алгоритмы и анализ сложности\Практическая работа\VertexCover\VertexCover\bin\Debug\VertexCover.pdb
+C:\Users\yaher\Desktop\Учеба\Алгоритмы и анализ сложности\Практическая работа\VertexCover\VertexCover\obj\Debug\VertexCover.csproj.AssemblyReference.cache
+C:\Users\yaher\Desktop\Учеба\Алгоритмы и анализ сложности\Практическая работа\VertexCover\VertexCover\obj\Debug\VertexCover.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaher\Desktop\Учеба\Алгоритмы и анализ сложности\Практическая работа\VertexCover\VertexCover\obj\Debug\VertexCover.csproj.CoreCompileInputs.cache
+C:\Users\yaher\Desktop\Учеба\Алгоритмы и анализ сложности\Практическая работа\VertexCover\VertexCover\obj\Debug\VertexCover.exe
+C:\Users\yaher\Desktop\Учеба\Алгоритмы и анализ сложности\Практическая работа\VertexCover\VertexCover\obj\Debug\VertexCover.pdb
